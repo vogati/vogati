@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/bitrix/components/bitrix/socserv.auth.form/templates/flat/style.css" => "15853864582553",); ?>

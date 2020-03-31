@@ -1,0 +1,31 @@
+<?php
+
+$MESS['YANDEX_MARKET_UI_OPTION_GROUP_EXPORT'] = 'Экспорт товаров';
+$MESS['YANDEX_MARKET_UI_OPTION_GROUP_CATALOG'] = 'Торговый каталог';
+$MESS['YANDEX_MARKET_UI_OPTION_GROUP_PROMO'] = 'Акции';
+$MESS['YANDEX_MARKET_UI_OPTION_GROUP_WRITE'] = 'Запись';
+$MESS['YANDEX_MARKET_UI_OPTION_GROUP_ADDITIONAL'] = 'Дополнительно';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPORT_OFFER_PAGE_SIZE'] = 'Количество элементов обрабатываемых за один запрос';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPORT_OFFER_PAGE_SIZE_HINT'] = 'Позволяет сократить нагрузку на базу данных, но увеличивает потребление памяти';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPORT_AGENT_CHANGES_LIMIT'] = 'Количество изменений обрабатываемых за один вызов';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPORT_AGENT_CHANGES_LIMIT_HINT'] = 'Ограничение количества записей, передаваемых для&nbsp;обработки агенту внесения изменений';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPORT_AGENT_TIME_LIMIT'] = 'Длительность шага агента (сек.)';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPORT_AGENT_TIME_LIMIT_HINT'] = 'Ограничение времени выполнения агентов для&nbsp;внесения изменений и&nbsp;полного обновления прайс-листов';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPORT_CATALOG_USE_SHORT'] = 'Новый синтаскис CIBlockElement::GetList';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPORT_CATALOG_USE_SHORT_HINT'] = 'При запросах будет использоваться короткий синтаксис запросов полей &laquo;Торгового каталога&raquo;, <a href="https://dev.1c-bitrix.ru/community/blogs/vws/products-and-elementgetlist.php" target="_blank">подробнее</a>';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPORT_CATALOG_SKU_AVAILABLE_AUTO'] = 'Доступность товара обновляется на основании данных торговых предложений';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPORT_CATALOG_SKU_AVAILABLE_AUTO_HINT'] = 'Начиная с версии 16.0.3 модуля &laquo;Торговый каталог&raquo; поле &laquo;Доступность&raquo; обновляется автоматически для товаров с торговыми предложениями, <a href="https://dev.1c-bitrix.ru/community/blogs/vws/about-poor-product-say-a-word.php" target="_blank">подробнее</a> (раздел &laquo;Доступность товара и возможность его покупки&raquo;)';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPORT_CATALOG_TYPE_COMPATIBILITY'] = 'Проверять наличие торговых предложений для любого типа товаров';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPORT_CATALOG_TYPE_COMPATIBILITY_HINT'] = 'Если значения поля &laquo;Тип товара&raquo; содержит неправильное значение, то для выгрузки вместо предложений могут ошибочно использоваться товары';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPORT_CATALOG_PRICE_DISCOUNT_PROPERTIES_OPTIMIZE'] = 'Оптимизация выбора свойств для расчета скидок';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPORT_CATALOG_PRICE_DISCOUNT_PROPERTIES_OPTIMIZE_HINT'] = 'Предзагружать только используемые свойства для&nbsp;расчета скидок';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPORT_PROMO_DISCOUNT_EXTERNAL_GIFT'] = 'Выгружать подарки, которые не попали в прайс-листы';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPORT_PROMO_DISCOUNT_EXTERNAL_GIFT_HINT'] = 'Выгружать в&nbsp;качестве тега &lt;gift&gt; подарки, которые не&nbsp;попадают в&nbsp;секцию &lt;offers&gt;. Используется для&nbsp;акций из&nbsp;раздела &laquo;Маркетинг&raquo;';
+$MESS['YANDEX_MARKET_UI_OPTION_EXPERT_MODE'] = 'Экспертный режим';
+$MESS['YANDEX_MARKET_UI_OPTION_VALUE_DEFAULT'] = '---По умолчанию---';
+$MESS['YANDEX_MARKET_UI_OPTION_VALUE_N'] = 'Нет';
+$MESS['YANDEX_MARKET_UI_OPTION_VALUE_Y'] = 'Да';
+$MESS['YANDEX_MARKET_UI_OPTION_VALUE_MUST_BE_NUMERIC'] = 'Значение поля &laquo;#FIELD#&raquo; должно быть числовым';
+$MESS['YANDEX_MARKET_UI_OPTION_VALUE_LESS_THAN'] = 'Значение поля &laquo;#FIELD#&raquo; должно быть больше или равно #MIN#';
+$MESS['YANDEX_MARKET_UI_OPTION_VALUE_MORE_THAN'] = 'Значение поля &laquo;#FIELD#&raquo; должно быть меньше или равно #MAX#';
+$MESS['YANDEX_MARKET_UI_OPTION_VALUE_NOT_MATCH_OPTIONS'] = 'Выберите значение поля &laquo;#FIELD#&raquo; из списка';

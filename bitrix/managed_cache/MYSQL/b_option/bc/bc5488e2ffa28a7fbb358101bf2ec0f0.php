@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001585570728';
+$dateexpire = '001585574328';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{s:1:"-";a:0:{}s:2:"hp";a:17:{s:11:"catalogView";s:4:"list";s:13:"personTypeFiz";s:1:"Y";s:12:"personTypeUr";s:1:"Y";s:7:"shopAdr";s:23:"ул. Пушкина 19";s:8:"shopBANK";s:56:"ОАО "Сбербанк России", г. Москва";s:12:"shopBANKREKV";s:16:"БИК 044525225";s:9:"shopEmail";s:16:"vogati@yandex.ru";s:7:"shopINN";s:10:"1234567890";s:7:"shopKPP";s:9:"123456789";s:6:"shopKS";s:24:"30101 810 4 0000 0000225";s:16:"shopLocalization";s:2:"ru";s:12:"shopLocation";s:12:"Москва";s:6:"shopNS";s:24:"0000 0000 0000 0000 0000";s:10:"shopOfName";s:15:"ООО "VOGATI"";s:8:"siteName";s:6:"VOGATI";s:13:"siteTelephone";s:18:"+7 (901) 368 20 22";s:16:"wizard_installed";s:1:"Y";}s:2:"s1";a:18:{s:11:"catalogView";s:4:"list";s:13:"personTypeFiz";s:1:"Y";s:12:"personTypeUr";s:1:"Y";s:7:"shopAdr";s:23:"ул. Пушкина 19";s:8:"shopBANK";s:56:"ОАО "Сбербанк России", г. Москва";s:12:"shopBANKREKV";s:16:"БИК 044525225";s:9:"shopEmail";s:16:"vogati@yandex.ru";s:7:"shopINN";s:10:"1234567890";s:7:"shopKPP";s:9:"123456789";s:6:"shopKS";s:24:"30101 810 4 0000 0000225";s:16:"shopLocalization";s:2:"ru";s:12:"shopLocation";s:12:"Москва";s:6:"shopNS";s:24:"0000 0000 0000 0000 0000";s:10:"shopOfName";s:40:"ООО "Интернет-магазин"";s:8:"siteName";s:6:"VOGATI";s:13:"siteTelephone";s:18:"+7 (928) 909-44-74";s:18:"template_converted";s:1:"Y";s:16:"wizard_installed";s:1:"Y";}}}';
+return true;
+?>

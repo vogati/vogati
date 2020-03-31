@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/bitrix/templates/okshop/components/bitrix/catalog/catalog-template/bitrix/catalog.element/.default/script.js" => "158557066663949","/bitrix/templates/okshop/components/bitrix/catalog.section/detail-template/script.js" => "158557066633698","/bitrix/components/krayt/emarket.comments/templates/.default/script.js" => "15855701308392",); ?>

@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/bitrix/templates/okshop/components/bitrix/news.list/slider/style.css" => "15855706663135","/bitrix/templates/okshop/components/bitrix/news.list/slider/bxslider/jquery.bxslider.css" => "15855706663743",); ?>

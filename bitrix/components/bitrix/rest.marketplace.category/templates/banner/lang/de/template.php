@@ -1,0 +1,6 @@
+<?
+$MESS["REST_MARKETPLACE_CATEGORY_BANNER_DESCRIPTION"] = "Wählen Sie einsatzbereite Lösungspresets speziell für Ihr Unternehmen von unseren Partnern aus";
+$MESS["REST_MARKETPLACE_CATEGORY_BANNER_TITLE"] = "Marketplace";
+$MESS["REST_MARKETPLACE_CATEGORY_BANNER_TITLE_APP"] = "Partnerlösungen";
+$MESS["REST_MARKETPLACE_CATEGORY_INSTALL_LINK_NAME"] = "INSTALLIEREN";
+?>

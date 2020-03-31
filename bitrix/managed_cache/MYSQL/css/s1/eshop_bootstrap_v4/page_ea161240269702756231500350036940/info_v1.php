@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/bitrix/components/krayt/personal.area/templates/.default/style.css" => "15855701303604",); ?>

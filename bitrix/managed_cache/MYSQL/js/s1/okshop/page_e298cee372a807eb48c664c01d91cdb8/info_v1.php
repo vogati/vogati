@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/bitrix/templates/okshop/components/krayt/sale.basket.basket/.default/script.js" => "158557066621925",); ?>
